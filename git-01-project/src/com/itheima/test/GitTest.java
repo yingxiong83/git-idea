@@ -6,4 +6,8 @@ public class GitTest {
         System.out.println("Git!");
     }
 
+    public void test() {
+        System.out.println("1111111111111111111111");
+    }
+
 }
